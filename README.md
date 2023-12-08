@@ -1,0 +1,1 @@
+An AI Based Discord Bot is an interactive and versatile addition to Discord servers, powered by AI to bring engaging features and conversations. The bot enables natural interactions through its conversational AI, allowing users to engage in lively discussions on a variety of topics.
