@@ -1,5 +1,4 @@
-#app id : 1180120052050182155
-#puKey:1cd58d12f4a8bcec59f4328cce215a71aeee6d8c8bb80e79c35ea205ee4db247
+
 import discord
 import os
 from openai import OpenAI
